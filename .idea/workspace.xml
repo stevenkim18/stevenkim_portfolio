@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="601834c7-bd38-49fe-a8b2-5b196a51ebc6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/java.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/portfolio.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -46,19 +50,20 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ksw01\Desktop\webProject\jsTest" />
-      <recent name="C:\Users\ksw01\Desktop\webProject\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ksw01\Desktop\webProject\images" />
       <recent name="C:\Users\ksw01\Desktop\webProject\js\tingle" />
       <recent name="C:\Users\ksw01\Desktop\webProject\css\tingle" />
       <recent name="C:\Users\ksw01\Desktop\webProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ksw01\Desktop\webProject\jsTest" />
+      <recent name="C:\Users\ksw01\Desktop\webProject\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -89,7 +94,7 @@
       <workItem from="1574395874431" duration="9206000" />
       <workItem from="1574733793254" duration="1890000" />
       <workItem from="1574994032289" duration="7052000" />
-      <workItem from="1575002753389" duration="2286000" />
+      <workItem from="1575002753389" duration="11376000" />
     </task>
     <task id="LOCAL-00001" summary="브런치 커밋 푸시 테스트">
       <created>1575004254343</created>
@@ -98,7 +103,42 @@
       <option name="project" value="LOCAL" />
       <updated>1575004254343</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="git ignore 적용">
+      <created>1575005161873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575005161873</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git ignore 다시 적용 시도">
+      <created>1575005635302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575005635302</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git ignore 다시 적용 시도">
+      <created>1575005933516</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575005933516</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git ignore 다시 적용 시도">
+      <created>1575006071780</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575006071780</updated>
+    </task>
+    <task id="LOCAL-00006" summary="포트폴리오 사진 href 지움">
+      <created>1575007355955</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575007355955</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +146,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="브런치 커밋 푸시 테스트" />
-    <option name="LAST_COMMIT_MESSAGE" value="브런치 커밋 푸시 테스트" />
+    <MESSAGE value="git ignore 적용" />
+    <MESSAGE value="git ignore 다시 적용 시도" />
+    <MESSAGE value="포트폴리오 사진 href 지움" />
+    <option name="LAST_COMMIT_MESSAGE" value="포트폴리오 사진 href 지움" />
   </component>
 </project>
