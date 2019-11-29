@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="601834c7-bd38-49fe-a8b2-5b196a51ebc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="601834c7-bd38-49fe-a8b2-5b196a51ebc6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +87,7 @@
       <workItem from="1574395874431" duration="9206000" />
       <workItem from="1574733793254" duration="1890000" />
       <workItem from="1574994032289" duration="7052000" />
-      <workItem from="1575002753389" duration="2769000" />
+      <workItem from="1575002753389" duration="3013000" />
     </task>
     <task id="LOCAL-00001" summary="브런치 커밋 푸시 테스트">
       <created>1575004254343</created>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575005161873</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="git ignore 다시 적용 시도">
+      <created>1575005635302</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575005635302</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +119,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="브런치 커밋 푸시 테스트" />
     <MESSAGE value="git ignore 적용" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore 적용" />
+    <MESSAGE value="git ignore 다시 적용 시도" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore 다시 적용 시도" />
   </component>
 </project>
