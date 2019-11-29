@@ -269,7 +269,8 @@ jQuery(document).ready(function($) {
   }
 
   siteIstotope();
-
+	
+  // 수정
   // 포트폴리오 이미지 클릭시 이미지 화면으로 넘어감.
   $('.fancybox').on('click', function() {
 	  var visibleLinks = $('.fancybox');

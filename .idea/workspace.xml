@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="601834c7-bd38-49fe-a8b2-5b196a51ebc6" name="Default Changelist" comment="" />
+    <list default="true" id="601834c7-bd38-49fe-a8b2-5b196a51ebc6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +21,11 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -82,7 +89,7 @@
       <workItem from="1574395874431" duration="9206000" />
       <workItem from="1574733793254" duration="1890000" />
       <workItem from="1574994032289" duration="7052000" />
-      <workItem from="1575002753389" duration="1171000" />
+      <workItem from="1575002753389" duration="1448000" />
     </task>
     <servers />
   </component>
