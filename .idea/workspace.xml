@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="601834c7-bd38-49fe-a8b2-5b196a51ebc6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,11 +89,23 @@
       <workItem from="1574395874431" duration="9206000" />
       <workItem from="1574733793254" duration="1890000" />
       <workItem from="1574994032289" duration="7052000" />
-      <workItem from="1575002753389" duration="1448000" />
+      <workItem from="1575002753389" duration="2286000" />
     </task>
+    <task id="LOCAL-00001" summary="브런치 커밋 푸시 테스트">
+      <created>1575004254343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575004254343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="브런치 커밋 푸시 테스트" />
+    <option name="LAST_COMMIT_MESSAGE" value="브런치 커밋 푸시 테스트" />
   </component>
 </project>
